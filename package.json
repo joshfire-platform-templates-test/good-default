@@ -13,17 +13,6 @@
         "devices": "*",
         "startfile": "app/index.html"
       }
-    ],
-    "options":{
-      "schema":{
-        "optwithdefault":{
-          "type":"string",
-          "default":"dft"
-        },
-        "optwithoutdefault":{
-          "type":"string"
-        }
-      }
-    }
+    ]
   }
 }
